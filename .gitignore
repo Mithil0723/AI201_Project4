@@ -3,4 +3,5 @@
 __pycache__/
 *.pyc
 provenance.db
+provenance.db-journal
 .DS_Store
